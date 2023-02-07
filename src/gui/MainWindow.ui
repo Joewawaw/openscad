@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1118</width>
-    <height>636</height>
+    <width>960</width>
+    <height>960</height>
    </rect>
   </property>
   <widget class="QWidget" name="centralwidget">
@@ -955,7 +955,7 @@
     <string>&amp;Reload and Preview</string>
    </property>
    <property name="shortcut">
-    <string>F4</string>
+    <string>Ctrl+4</string>
    </property>
   </action>
   <action name="designActionPreview">
@@ -963,7 +963,7 @@
     <string>&amp;Preview</string>
    </property>
    <property name="shortcut">
-    <string>F5</string>
+    <string>Ctrl+5</string>
    </property>
   </action>
   <action name="designActionRender">
@@ -971,7 +971,7 @@
     <string>R&amp;ender</string>
    </property>
    <property name="shortcut">
-    <string>F6</string>
+    <string>Ctrl+6</string>
    </property>
   </action>
   <action name="designAction3DPrint">
@@ -979,7 +979,7 @@
     <string>&amp;3D Print</string>
    </property>
    <property name="shortcut">
-    <string>F8</string>
+    <string>Ctrl+8</string>
    </property>
   </action>
   <action name="designCheckValidity">
@@ -1007,7 +1007,7 @@
     <string>Export as &amp;STL...</string>
    </property>
    <property name="shortcut">
-    <string>F7</string>
+    <string>Ctrl+7</string>
    </property>
   </action>
   <action name="fileActionExportOBJ">
@@ -1115,7 +1115,7 @@
     <string>&amp;Top</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+4</string>
+    <string>1</string>
    </property>
   </action>
   <action name="viewActionBottom">
@@ -1123,7 +1123,7 @@
     <string>&amp;Bottom</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+5</string>
+    <string>2</string>
    </property>
   </action>
   <action name="viewActionLeft">
@@ -1131,7 +1131,7 @@
     <string>&amp;Left</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+6</string>
+    <string>3</string>
    </property>
   </action>
   <action name="viewActionRight">
@@ -1139,7 +1139,7 @@
     <string>&amp;Right</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+7</string>
+    <string>4</string>
    </property>
   </action>
   <action name="viewActionFront">
@@ -1147,7 +1147,7 @@
     <string>&amp;Front</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+8</string>
+    <string>5</string>
    </property>
   </action>
   <action name="viewActionBack">
@@ -1155,7 +1155,7 @@
     <string>Bac&amp;k</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+9</string>
+    <string>6</string>
    </property>
   </action>
   <action name="viewActionDiagonal">
@@ -1163,7 +1163,7 @@
     <string>&amp;Diagonal</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+0</string>
+    <string>7</string>
    </property>
   </action>
   <action name="viewActionCenter">
@@ -1366,7 +1366,7 @@
     <string>Zoom In</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+]</string>
+    <string>=</string>
    </property>
   </action>
   <action name="viewActionZoomOut">
@@ -1374,7 +1374,7 @@
     <string>Zoom Out</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+[</string>
+    <string>-</string>
    </property>
   </action>
   <action name="viewActionViewAll">
@@ -1382,7 +1382,7 @@
     <string>View All</string>
    </property>
    <property name="shortcut">
-    <string>Ctrl+Shift+V</string>
+    <string>`</string>
    </property>
   </action>
   <action name="editActionConvertTabsToSpaces">
